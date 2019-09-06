@@ -1,7 +1,6 @@
 """
 Logistic Regression Numerai Model 
 
-Andrew Garvey 
 - Created Dec 2018
 - Edited for dynamic local running Feb 2019
     - runs weekly - Sunday 3am (Currently monday for testing purposes) 
@@ -9,7 +8,6 @@ Andrew Garvey
     - makes its own folders to store results  
     - uploads csv automatically to my account,
     - email me upon completion
-    - #Some way to long term store the results, maybe uploads a csv to ADD to it and the writes it back with a new name?
 """
 # import packages
 import numpy as np
