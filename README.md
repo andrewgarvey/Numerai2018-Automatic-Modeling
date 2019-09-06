@@ -1,7 +1,4 @@
 # Numerai-Automatic Modeling
-
-Author: Andrew Garvey
-
 Date: Dec 2018 
 
 Languages: Python
